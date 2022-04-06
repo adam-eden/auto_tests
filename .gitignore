@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+/__pycache__/
+
+# Distribution / packaging
+/.idea/
+
+# dotenv
+.env
+
+# virtualenv
+/venv/
+
+# other
+/form_tests/
